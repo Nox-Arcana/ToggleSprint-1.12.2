@@ -11,4 +11,4 @@ No other modifications were made.
 
 # HOW TO USE:
 
-When you first launch the mod you're default keybind to toggle sprint will be "R", you can change this under the control settings.
+When you first launch the mod your default keybind to toggle sprint will be "R", you can change this under the control settings.
