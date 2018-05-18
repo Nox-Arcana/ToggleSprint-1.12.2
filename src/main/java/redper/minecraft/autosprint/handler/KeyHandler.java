@@ -1,10 +1,10 @@
 package redper.minecraft.autosprint.handler;
 
+import redper.minecraft.autosprint.*;
 import net.minecraft.client.settings.*;
 import net.minecraft.client.*;
-import redper.minecraft.autosprint.*;
-import net.minecraftforge.fml.client.registry.*;
 import net.minecraftforge.common.config.*;
+import net.minecraftforge.fml.client.registry.*;
 import net.minecraftforge.fml.common.gameevent.*;
 import net.minecraftforge.fml.common.eventhandler.*;
 import net.minecraftforge.fml.relauncher.*;
