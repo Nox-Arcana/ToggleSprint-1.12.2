@@ -1,11 +1,11 @@
 package redper.minecraft.autosprint.gui.config;
 
+import redper.minecraft.autosprint.*;
+import java.util.*;
 import net.minecraft.client.gui.*;
 import net.minecraft.client.resources.*;
 import net.minecraftforge.fml.client.config.*;
-import redper.minecraft.autosprint.*;
 import net.minecraftforge.common.config.*;
-import java.util.*;
 
 public class ConfigGui extends GuiConfig
 {
