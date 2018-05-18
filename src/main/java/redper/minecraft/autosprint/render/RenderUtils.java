@@ -1,8 +1,8 @@
 package redper.minecraft.autosprint.render;
 
+import java.awt.*;
 import net.minecraftforge.fml.relauncher.*;
 import net.minecraft.client.*;
-import java.awt.*;
 import net.minecraft.client.gui.*;
 
 @SideOnly(Side.CLIENT)
