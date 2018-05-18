@@ -1,11 +1,11 @@
 package redper.minecraft.autosprint.gui;
 
+import redper.minecraft.autosprint.gui.config.*;
+import java.util.*;
 import net.minecraftforge.fml.client.*;
 import net.minecraft.client.*;
 import net.minecraft.client.gui.*;
-import redper.minecraft.autosprint.gui.config.*;
 import net.minecraftforge.fml.relauncher.*;
-import java.util.*;
 
 public class GuiFactory implements IModGuiFactory
 {
