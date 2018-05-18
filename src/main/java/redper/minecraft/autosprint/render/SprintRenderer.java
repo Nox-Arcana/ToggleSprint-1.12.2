@@ -1,13 +1,13 @@
 package redper.minecraft.autosprint.render;
 
+import redper.minecraft.autosprint.handler.*;
+import java.awt.*;
 import net.minecraft.client.gui.*;
 import net.minecraft.client.*;
 import redper.minecraft.autosprint.*;
-import java.awt.*;
+import net.minecraftforge.client.event.*;
 import net.minecraftforge.common.config.*;
 import net.minecraftforge.fml.relauncher.*;
-import net.minecraftforge.client.event.*;
-import redper.minecraft.autosprint.handler.*;
 import net.minecraftforge.fml.common.eventhandler.*;
 
 public class SprintRenderer extends Gui
