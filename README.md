@@ -1,4 +1,6 @@
 # ToggleSprint [AutoSprint] for MC 1.12.2
+**Forge required.**
+
 A mod that holds your Sprint key, revamped from AutoSprint, all credit goes to "RedPer" for the original mod.
 https://minecraft.curseforge.com/projects/auto-sprint-mod
 
