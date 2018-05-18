@@ -1,13 +1,13 @@
 package redper.minecraft.autosprint;
 
-import net.minecraftforge.fml.common.*;
-import java.io.*;
-import net.minecraftforge.common.config.*;
-import net.minecraftforge.fml.client.event.*;
-import net.minecraftforge.fml.common.eventhandler.*;
-import net.minecraftforge.common.*;
 import redper.minecraft.autosprint.handler.*;
 import redper.minecraft.autosprint.render.*;
+import java.io.*;
+import net.minecraftforge.common.config.*;
+import net.minecraftforge.common.*;
+import net.minecraftforge.fml.common.*;
+import net.minecraftforge.fml.client.event.*;
+import net.minecraftforge.fml.common.eventhandler.*;
 import net.minecraftforge.fml.relauncher.*;
 import net.minecraftforge.fml.common.event.*;
 
