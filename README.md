@@ -1,4 +1,4 @@
-# [1.12.2]ToggleSprint [AutoSprint] (Ported by Nox_Arcana)
+# ToggleSprint [AutoSprint] for MC 1.12.2
 A mod that holds your Sprint key, revamped from AutoSprint, all credit goes to "RedPer" for the original mod.
 https://minecraft.curseforge.com/projects/auto-sprint-mod
 
@@ -9,6 +9,6 @@ Original mod created by RedPer, all credit goes to him, the only thing I did her
 No other modifications were made.
 
 
-# HOW TO USE:
+## HOW TO USE:
 
 When you first launch the mod your default keybind to toggle sprint will be "R", you can change this under the control settings.
